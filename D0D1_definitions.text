@@ -1,0 +1,3801 @@
+D0: Code Enforcement
+
+D1: ADA Compliance
+
+Definition
+
+Description whose central theme is around violations to lack of compliance with the America with Disabilities Act
+
+Examples 
+
+typos intended to mimic production data
+
+Easier to classify
+
+"Citizen dissapopinted with ADA facilities at Bartle Hall"
+
+More difficult to classify
+
+"Citizen reporting that the sidewalk and ramp are damaged and need replaced. It is a hazard and there is a homeowner in a wheelchair. It needs to be repaired as soon as possible so that he can access his home at the Riverbend Lofts."
+
+Commonly Confused With
+
+No common confusions to date
+
+D1: Abandoned Vehicle
+
+Definition
+
+Description whose central theme is related to vehicles (of any sort) that have been abandoned for a prolonged amount of time
+
+Examples 
+
+typos intended to mimic production data
+
+Easier to classify
+
+"Bike is locked to handicap sign (2wks), forbidding bicycles to be locked to it."
+
+More difficult to classify
+
+"She mentioned there was a van dumped in front of her street, it was done by a group of kids probably teenagers. She is not sure if it was stolen."
+
+Commonly Confused With
+
+Fleet|Vehicle Maintenance
+
+Code Enforcement|Estate Complaint
+
+D1: Animal Violation
+
+Definition
+
+Description whose central theme is around violations of leash laws, noise ordinances, or welfare rights regarding animals
+
+Examples 
+
+typos intended to mimic production data
+
+Easier to classify
+
+"Citizen is calling to request that the dogs living at 4129 Brooklyn Ave be investigated for no being on a leash and for not having tags or licenses. One dog is blackish gray and the other dog is light brown in color both are Pit Bull mix."
+
+More difficult to classify
+
+"These people have about 10 ferrets running around their house that they can't feed and keep bothering neighbors to help them out with pet food. They also have a really big dog that looks emaciated. They also have a black cat."
+
+Commonly Confused With
+
+Defer|Animal Complaint
+
+D1: Construction Complaint
+
+Definition
+
+Description whose central theme is around damage or disturbance to citizens caused by construction projects, either industrial or personal
+
+Examples 
+
+typos intended to mimic production data
+
+Easier to classify
+
+"Citizen called in to advise that his yard and everyone elses yards are being flooded when it rains due to the developers behind his residence"
+
+More difficult to classify
+
+"Caller state that her neighbor was making him a driveway and he cut some of the curb down.Caller state this is going to cause flooding and will need to build the curb back up"
+
+Commonly Confused With
+
+*|Flooding
+
+Code Enforcement|Drainage Violation
+
+*|Erosion
+
+D1: Drainage Violation
+
+Definition
+
+Description whose central theme is around water draining onto the citizen's property or another referenced property due to the actions of another party or improper infrastructure
+
+Note
+
+Stormwater|Drainage Complaint will be remapped to this label pair in the future
+
+Examples 
+
+typos intended to mimic production data
+
+Easier to classify
+
+"CALLER STATES THAT THE RESIDENT IS DRAINING WATER ONTO HIS PROPERTY, BLOCKING HIS DRAINAGE. PLEASE INSPECT."
+
+More difficult to classify
+
+"THERE IS A RETAINING WALL BEHIND THIS HOUSE THAT HAS 12 LARGE PIPES COMING OUT OF IT WHICH IS DRAINIING ONTO The PROPERTY at 53232 Cottage Ct. AND IS NOW GOING INTO THE HOUSE. This wall is starting to break down and needs to be taken out."
+
+Commonly Confused With
+
+*|Flooding
+
+Code Enforcement|Construction Complaint
+
+*|Erosion
+
+D1: Estate Complaint
+
+Definition
+
+Description whose central theme is related to complaints about property conditions, typically that violated building codes or property regulations. These are typically about a neighbor but are occasionally about the citizen's property.
+
+Examples 
+
+typos intended to mimic production data
+
+Easier to classify
+
+"This residence has no hot water or hot water tank, large hole in basement wall, no electric service, no working appliances, and is infested with bugs. There are no fire alarms, and no exits which creates a hazard."
+
+More difficult to classify
+
+"caller is stating that she has mold in her bathroom above the tub. The maintance crew came out on 2/20/07 and cleaned it with bleach/water. She was told that it was from condensation however the mold has returned. She is not getting a reply from management on addressing the problem. Pls investigate. Thanks"
+
+Commonly Confused With
+
+Defer|Easement Maintenance
+
+Code Enforcement|Abandoned Vehicle
+
+Defer|Maintenance Request
+
+Code Enforcement|Health Complaint
+
+D1: Health Complaint
+
+Definition
+
+Description whose central theme is centered around code violations that could result in physical or mental harm to the citizen or other citizens
+
+Examples 
+
+typos intended to mimic production data
+
+Easier to classify
+
+"Citizen is reporting that resident at this location keeps burning at this location. Citizen states the smoke is toxic and smells like they are burning plastic or rubber."
+
+More difficult to classify
+
+"Mold concern in unit when heat turned on. Also In common area."
+
+Commonly Confused With
+
+Defer|Maintenance Request
+
+Code Enforcement|Estate Complaint
+
+D1: Illegal Dumping
+
+Definition
+
+Description whose central theme is related to dumping garbage waster where is does not belong
+
+Examples 
+
+typos intended to mimic production data
+
+Easier to classify
+
+"REPORTED BY PD. A RED/MAROON DODGE CAR WITH PLATE # 5H31457 CAUGHT ON A SECURITY CAMERA DUMPED COUCH AND OTHER THINGS IN THE ALLEY BEHIND THE ADDRESS."
+
+More difficult to classify
+
+"There was a man driving a silver Toyota Corolla that looked really suspicious as he got into the neighborhood. He parked his car next to the bushes, lighted a cigarette, walked into the bushes, looked around, came back to his vehicle, opened the trunk, and he took out a trash bag full of glass bottles (I could hear the glasses and the bag seemed very heavy) and took the back into the bushes. He took out another (one or two more trash bags), and did the same thing. He moved them into the bushes, then he drove off."
+
+Commonly Confused With
+
+No known confusions at this time
+
+D1: Noise Violation
+
+Definition
+
+Description whose central theme is related to either extremely loud, disruptive noise or noise that is occurring during regulated hours
+
+Examples 
+
+typos intended to mimic production data
+
+Easier to classify
+
+"Citizen stated" I've been awakened the past two mornings (yes, that includes Easter Sunday) at approximately 6:10am to the sounds of the equipment in use again. Operating company for Ward Parkway Shopping Center is in violation of noise ordinances by operating noisy equipment before 7am." "
+
+More difficult to classify
+
+"Ice cream truck playing loud music and loudspeaker at extremely high volume. Occurs in afternoons between 4-7pm and can be heard from 3 blocks away."
+
+Commonly Confused With
+
+No known confusions at this time
+
+D1: Painting Violation
+
+Definition
+
+Description whose central theme is related to painting structures or areas that should not be painted
+
+Examples 
+
+typos intended to mimic production data
+
+Easier to classify
+
+"Curb is painted red, and it's not even a driveway. Home owner insists that city painted but it visibly a regular curb."
+
+More difficult to classify
+
+"Please eval if this red zone is valid. Ifo driveway with garage but no apron. Not sure if permitted"
+
+Commonly Confused With
+
+Streets|Painting
+
+D1: Parking Violation
+
+Definition
+
+Description whose central theme is around vehicles in areas that are not designated for parking or vehicles that have been ticketed for parking in such areas with citizens calling to contest
+
+Examples 
+
+typos intended to mimic production data
+
+Easier to classify
+
+"Citizen was issued a ticket. Public works has conferred that the parking spaces were marked incorrectly. Citizen is requesting a refund and the ticket be cleared. Please contact citizen."
+
+More difficult to classify
+
+"Citizen states she place 75 cents in the Walnut pay station, stall #85 just before 8 am and would have expired at 0836 hrs. She received an expired meter ticket shortly after 8 am."
+
+Commonly Confused With
+
+Code Enforcement|Abandoned Vehicle
+
+D1: Permits
+
+Definition
+
+Description whose central theme is around either calling to request a permit or calling to report someone for completing work without a permit
+
+Examples 
+
+typos intended to mimic production data
+
+Easier to classify
+
+"Needs to get a building permit to finish his basement. He is asking how to do that? Can he get the form from the office? He left the form at his office in Parksville and did not want to drive back and forth multiple times before 9:00."
+
+More difficult to classify
+
+"Called needing permit for a new driveway"
+
+Commonly Confused With
+
+No known confusions at this time
+
+D1: Question
+
+Definition
+
+Description whose central theme is around citizens calling in to question anything about code enforcement in general, specifically in cases where the question is mimicking a report of a violation or the perception of a violation
+
+Examples 
+
+typos intended to mimic production data
+
+Easier to classify
+
+"Why is the sidewalk closed? They are doing construction on a private building. Shouldn?t the builders create a walkway on the public sidewalk? It?s a heavily used sidewalk. The sidewalk on Adams Ave is the actual street where sidewalk is closed."
+
+More difficult to classify
+
+"Now that the stay at home orders have expired, haven’t the permits for the local road closures expired??? If not when do they expire?"
+
+Commonly Confused With
+
+Any other Question D1 label depending on context or anchor words in the description
+
+D1: ROW Violation
+
+Definition
+
+Description whose central theme is around blockage of or improper usage of the right of way
+
+Examples 
+
+typos intended to mimic production data
+
+Easier to classify
+
+"There is a sign the ROW. It is a roofing sign."
+
+More difficult to classify
+
+"I've reported it before, but still hasn't been fixed. The store puts signage in the sight triangle and makes turning onto Wornall very dangerous. You cannot see NB oncoming traffic. Please help with this before an accident occurs. I've asked them in the store to not place it in that location, but they don't seem to care."
+
+Commonly Confused With
+
+No known confusions at this time
+
+D1: Service Complaint
+
+Definition
+
+Description whose central theme is around complaints about code enforcement staff performing their duties
+
+Examples 
+
+typos intended to mimic production data
+
+More difficult to classify
+
+"Citizen wants to report the parking officier driving vehicle 4141. He was writing tickets on walnut from 10th to 9th street, as these vehicles were parked illegally......While he was writing the tickets he was blocking the center lane instead of parking in front of all of the cars on the right lane and walking up to issue the tickets to the vehicles.....also same officer was writing a tickets where he past up fed exp truck and a moving truck and these trucks were blocking the bus lane to unload, but he then issues the cars that are parked in the same lane tickets.....now if they are all parked there at the same time and are all blocking the bus lane then they all should receive tickets......just would like some clarifcation to the policy. Citizen would like for supervisor to give him a call."
+
+Commonly Confused With
+
+Any other Service Complaint D1 label depending on context or anchor words in the description
+
+D1: Social Distancing Violation
+
+Definition
+
+Description whose central theme is related to violations of the social distancing mandate for Covid-19
+
+Notes
+
+This will merge with Health|Social Distancing Violation in the future
+
+Examples 
+
+typos intended to mimic production data
+
+Easier to classify
+
+"Where were you police and lifeguard clowns today? I know you were in your helicopter, you are probably in the So Beach Parking lot checking "things" out, you know what I mean. You certainly were't out on Sunset Cliffs which was inundated with more people than I have seen in my 73 years of living here. Patrolling with a helicopter is expensive and inappropriate, get off your lazy butts, get out of the donut shops, put on your flip flops and help the situation. Advise people to wear masks."
+
+More difficult to classify
+
+"covid office outbreak with no quarantine or tracing
+
+Commonly Confused With
+
+No known confusions at this time
+
+D1: Zoning Violation
+
+Definition
+
+Description whose central theme is around occupancy limit violations, rental of single family homes without permits, or illegal business activity at a residence without prior approval
+
+Examples 
+
+typos intended to mimic production data
+
+Easier to classify
+
+"Citizen called to report there are upwards of 8 residents in this address; she believes them to be over the limit as stipulated by by the section 8 guidelines."
+
+More difficult to classify
+
+"I'm curious how this home in an R-7.5 zoning district (and not on a corner), in an otherwise single-family area, could be advertising a rental unit on a sign in its yard right of way as a "duplex". It does not seem to be allowable, unless it is on a corner."
+
+Commonly Confused With
+
+No known confusions at this time
+
+D0: Courts
+
+D1: Question
+
+Definition
+
+Description whose central theme is around questions about court proceedings
+
+Examples 
+
+typos intended to mimic production data
+
+Easier to classify
+
+"The caller wants to know if the court for her ticket will be virtual."
+
+More difficult to classify
+
+"He called in with a question regarding a ticket he received. He had not looked at it previously. Today he looked at the date and realized that the court date is for tomorrow 02/05/2021. He would like to reschedule the court for a later time. He is calling to see if that's possible."
+
+Commonly Confused With
+
+Any other Question D1 label depending on context or anchor words in the description
+
+D0: Defer
+
+D1: Access Request
+
+Definition
+
+Description whose central theme is around either being locked out of a location or locked in
+
+Examples 
+
+typos intended to mimic production data
+
+Easier to classify
+
+"**URGENT** Officer Naumann is at 12950 40th Street and there is a couple who brought items and now they are locked inside the property."
+
+More difficult to classify
+
+"Her and two other pople are stuck inside of Joaquin Miller Park. Everthing is closed and they are stuck inside the park . While speaking to her she disconnected the line. She stated it was her and two other people with their pets and they cannot get their cars out."
+
+Commonly Confused With
+
+No known confusions at this time
+
+D1: Accident Cleanup
+
+Definition
+
+Description whose central theme is around clearing the wreckage resulting from a vehicle accident
+
+Examples 
+
+typos intended to mimic production data
+
+Easier to classify
+
+"There was a minor collision at this corner. Debris still On the road & on the sidewalk. It has been there for several days. Thank you."
+
+More difficult to classify
+
+"OPD is on scene - requesting removal of debree around the vehicle for a toe."
+
+Commonly Confused With
+
+No known confusions at this time
+
+D1: Administration
+
+Definition
+
+Description whose central theme is around requiring some sort of help or consultation with a particular individual. Other broad categorization of "administrative help" fall into this label pair as well
+
+Examples 
+
+typos intended to mimic production data
+
+Easier to classify
+
+"Caller is returning a call. Please call back."
+
+More difficult to classify
+
+"The caller wants to be transferred to ext 35344 for Jermane Farlow line. He is returning the call he know all the issue he is having."
+
+Commonly Confused With
+
+No known confusions at this time
+
+D1: Alarm
+
+Definition
+
+Descriptions whose central theme is around an alarm of some sort going off. Typically all instances of alarms that can not be directly attributed to a particular asset are included here. 
+
+Notes
+
+In the future, an additional model will be built to localize these alarms further
+
+Examples 
+
+typos intended to mimic production data
+
+Easier to classify
+
+"Alarm went off Saturday around 6 pm, no evidence of any problems, except the alarm going off, per caller"
+
+More difficult to classify
+
+"led light blinking on and off"
+
+Commonly Confused With
+
+Confusion
+
+Reason
+
+D1: Animal Complaint
+
+Definition
+
+Description whose central theme is around the nuisance posed by and/or well-being of stray animals (not necessarily animals types that are typically kept as pets)
+
+Examples 
+
+typos intended to mimic production data
+
+Easier to classify
+
+"Citizen reports two beagles that are injured. First is black and brown, back left leg is injured. Second is all brown face and front leg looks hurt. They are confine.call taker 77"
+
+More difficult to classify
+
+"The citizen reports there is a dog with white fur, possibly a Boxer breed or Pit Bull mix, that has been hanging around in her backyard since 7am this morning. The caller states the dog does not appear aggressive but she cannot have it there as she also has a dog."
+
+Commonly Confused With
+
+Code Enforcement|Animal Violation
+
+Defer|Dead Animal
+
+D1: Banner Complaint
+
+Definition
+
+Description whose central theme is around some sort of hanging decoration, typically that has fallen in the road or is in violation of permissions.
+
+Examples 
+
+typos intended to mimic production data
+
+Easier to classify
+
+"Caller states she was driving and the banner fell and hit her car. It is now obstructing the road and preventing cars from moving."
+
+More difficult to classify
+
+"The big notice sign about the pumpkin festival is dangling from the street lights. I think someone cut it down! Rascals"
+
+Commonly Confused With
+
+No known confusions at this time
+
+D1: Barricade Request
+
+Definition
+
+Description whose central theme is around the requirement of barricade installment or removal
+
+Examples 
+
+typos intended to mimic production data
+
+Easier to classify
+
+"Citizen would like to have concrete barriers placed around the edges of the park so that vehicles are prevented from parking on the grass."
+
+More difficult to classify
+
+"SEWER LINE REPLACED. THIS IS A REQUEST FOR DPW TO REMOVE BARRICADE FROM REAR OF MY PROPERTY. THANK YOU."
+
+Commonly Confused With
+
+Defer|Emergency Barricade
+
+D1: Billing
+
+Definition
+
+Description whose central theme is around incorrect billing for an asset, billing questions, or bill payment.  This is not asset specific in the current vocabulary
+
+Examples 
+
+typos intended to mimic production data
+
+Easier to classify
+
+"The caller said she got her bill and it is not right"
+
+More difficult to classify
+
+"The caller stated that she is calling in regards to her bill. The caller stated that she just made a payment, however it was after 8PM. The caller stated that she would like to make sure her account has been noted so that her water does not shut off."
+
+Commonly Confused With
+
+Water|Service Disconnected
+
+D1: Board Up
+
+Definition
+
+Description whose central theme is around requiring boarding up of a property due to either damage or dereliction
+
+Examples 
+
+typos intended to mimic production data
+
+Easier to classify
+
+"The caller needs to have a window and a side of a wall boarded up due to fire. You will need to be 3 to 4 sheets of plywood."
+
+More difficult to classify
+
+"He called in from the Santa Clarita Sherriff station. He advised that they put in a request twice about a broken window that has to be secured and no one has responded and no one has called to give them an ETA. They put a deputy on scene for the past 5 hours but they cannot wait any longer and at this point they will have to leave and we are going to have an unsecured building."
+
+Commonly Confused With
+
+No known confusions at this time
+
+D1: Cave-In
+
+Definition
+
+Description whose central theme is around large holes forming in various locations. Typically restricted to those that are not related to Sewer or Stormwater/drainage related issues.
+
+Examples 
+
+typos intended to mimic production data
+
+Easier to classify
+
+"Citizen called to report the asphalt has broken up and there is a sinkhole forming at this location on Rockhill Rd the manhole covers are off due to the rain and sinkhole."
+
+More difficult to classify
+
+"The caller said in the middle ofd the street at the N end of 77 Ter. at 77 block there is a whole in the middle of the street and it is getting worse the street is bucking and has turned into mud."
+
+Commonly Confused With
+
+Sewer|Cave-In
+
+Stormwater|Cave-In
+
+Streets|Pothole
+
+Sewer|Manhole Complaint
+
+D1: Container Complaint
+
+Definition
+
+Description whose central theme is around complaints about neglected garbage containers in public places or the need for these containers
+
+Examples 
+
+typos intended to mimic production data
+
+Easier to classify
+
+"Overlook Park - garbage cans at the park have not emptied for at least a month, they are full. Please send someone to empty the cans at the park"
+
+More difficult to classify
+
+"It also needs a trash can in the playground area (it will help people to keep from throwing trash on the ground)."
+
+Commonly Confused With
+
+Defer|Estate Complaint
+
+Defer|Debris Complaint
+
+D1: Dead Animal
+
+Definition
+
+Description whose central theme is around a dead animal that needs to be picked up
+
+Examples 
+
+typos intended to mimic production data
+
+Easier to classify
+
+"DEAD DEER ON GREENWELL SPRINGS RD BETWEEN CORAL DR AND MONTICELLO BLVD"
+
+More difficult to classify
+
+"Citizen says that there is a cead squirrel in his yard. Advised to citizen to put it in a bag,and sit it on the curb."
+
+Commonly Confused With
+
+Defer|Animal Complaint
+
+Code Enforcement|Animal Violation
+
+D1: Debris Complaint
+
+Definition
+
+Description whose central theme is around reporting and/or requesting clean up for trash or miscellaneous debris in locations where it does not belong
+
+Examples 
+
+typos intended to mimic production data
+
+Easier to classify
+
+"The caller reports there is trash and pieces of a recliner near the fence of this park."
+
+More difficult to classify
+
+"Lots of hazardous items dumped in alley."
+
+Commonly Confused With
+
+*|Erosion
+
+Defer|Landslide
+
+Defer|Estate Complaint
+
+Defer|Container Complaint
+
+Stormwater|Ditch Complaint
+
+Defer|Easement Maintenance
+
+D1: Downed Pole
+
+Definition
+
+Description whose central theme is around notification of poles that have/are falling but that do not have additional descriptors that characterize the identity of the pole type
+
+Examples 
+
+typos intended to mimic production data
+
+Easier to classify
+
+"caller reporting a truck knock down a pole"
+
+More difficult to classify
+
+"The citizen called to report that pole # NQE668 is leaning and in danger of falling. The citizen states that it looks like a car may have hit the pole."
+
+Commonly Confused With
+
+Traffic|Downed Streetlight
+
+D1: Downed Tree
+
+Definition
+
+Description whose central theme is around a tree that has fallen and is obstructing normal activity or posing a threat
+
+Examples 
+
+typos intended to mimic production data
+
+Easier to classify
+
+"Citizen is reporting a tree has fallen across the street and is blocking the entire the street."
+
+More difficult to classify
+
+"Citizen reporting that a large tree from Maplewood Greenway was hit by lightning. Citizen states that the top half of the tree was split in half. Citizen states the tree top is still attached to the tree but resting inside the fence of citizen's backyard."
+
+Commonly Confused With
+
+Defer|Tree Complaint
+
+D1: Easement Maintenance
+
+Definition
+
+Description whose central theme is around landscaping that needs to be completed on city property
+
+Examples 
+
+typos intended to mimic production data
+
+Easier to classify
+
+"Citizen reporting that the island in the middle of N. Oak Trfy from 88th to 90th Street has not been mowed for at least a month. Citizen said that this is causing issues with visibility."
+
+More difficult to classify
+
+"City Property in the rear of homes on the 500 block of E 52nd Street (Once the Piney Woods Playground) is overgrown and encroaching upon the caller's property as well as that of her neighbors."
+
+Commonly Confused With
+
+Defer|Debris Complaint
+
+Stormwater|Ditch Complaint
+
+Defer|Estate Complaint
+
+D1: Emergency Barricade
+
+Definition
+
+Description whose central theme is around the need for a barricade immediately in order to prevent harm or damage
+
+Examples 
+
+typos intended to mimic production data
+
+Easier to classify
+
+"JAMES WALTON IS REQUESTING FLOOD BARRICADES."
+
+More difficult to classify
+
+"OTIS REQUEST TWO ONE WAY CLOUSURE SIGNS AND SUPER CONES WITH LIGHTS. "
+
+Commonly Confused With
+
+Defer|Barricade Request
+
+D1: Erosion
+
+Definition
+
+Description whose central theme is around the washing away or absence of top soil or a similar material due to causes other than weather patterns
+
+Examples 
+
+typos intended to mimic production data
+
+Easier to classify
+
+"Citizen reporting erosion in the back of his property from some type of water system that flows behing all of the properties on his block."
+
+More difficult to classify
+
+"The caller stated that they do not have a direct address its between Ilysian Fields and Golf links street the issue is that there is a wash out by the telephone pole number 21514 and where there is caution tape."
+
+Commonly Confused With
+
+Stormwater|Erosion
+
+*|Flooding
+
+Defer|Landslide
+
+D1: FYI
+
+Definition
+
+Description whose central theme is the report of seemingly meaningless information that isn't actionable for the city in real time
+
+Examples 
+
+typos intended to mimic production data
+
+Easier to classify
+
+"Citizen called to report that the City was to be saving money and he is alarmed that we are planting trees that he says we do not need between James A Reed Rd and Wallace up and down E 107th st on the southside of the road."
+
+More difficult to classify
+
+"I often walk my dog on the trail. About every afternoon the Lighthouse Christian School has a large group of kids running on the trail. They seem to take over the trail. I was just wanting to know if every school in Bloomington did this who would the trail belong to? The public for walking, ect. or to the schools? Seems to me that if you let one school all of them could take advantage of this. I do not like to be walking and have to step aside for a group of jogging kids!"
+
+Commonly Confused With
+
+No known confusions at this time
+
+D1: Fence Complaint
+
+Definition
+
+Description whose central theme is around complaints about fence integrity, absence, or maintenance on property owned by the city
+
+Examples 
+
+typos intended to mimic production data
+
+Easier to classify
+
+"The brown wooded fence outside the South Chattanooga center center needs to be secured with a lock. Its located in the back of the parking lot from the playground. Scottie McConnell, South Chattanooga Center 1151 West 40th Street 37409 643-6810"
+
+More difficult to classify
+
+"Hole in fence urban corps recycling center on sdccu stadium grounds"
+
+Commonly Confused With
+
+No known confusions at this time
+
+D1: Flooding
+
+Definition
+
+Description whose central theme is around cases of large amounts of water gathering in a location that cannot be directly traced back to weather related causes or the Water asset at the location
+
+Notes
+
+In the future, an additional model will be built to localize these flooding instances further
+
+Examples 
+
+typos intended to mimic production data
+
+Easier to classify
+
+"Flooding in back yard. Neighbor installed fence and which is blocking water flow, flooding as been worse since."
+
+More difficult to classify
+
+"The water is filling up the streets."
+
+Commonly Confused With
+
+Water|Flooding
+
+Stormwater|Flooding
+
+*|Erosion
+
+D1: Graffiti
+
+Definition
+
+Description whose central theme is around defacement of public property
+
+Examples 
+
+typos intended to mimic production data
+
+Easier to classify
+
+"Caller states there is graffitti on the speed limit sign at this address."
+
+More difficult to classify
+
+"KKK on b-line marker 146"
+
+Commonly Confused With
+
+No known confusions at this time
+
+D1: Homeless Encampment
+
+Definition
+
+Description whose central theme is around the congregation of homeless individuals in a particular location for a prolonged period of time
+
+Examples 
+
+typos intended to mimic production data
+
+Easier to classify
+
+"Increased levels of indigent activity at Ilus Davis Park. Appears some homeless may be taking up residence."
+
+More difficult to classify
+
+"The pier is not supposed to be free camping for druggies. Trash, feces, and needles are left, children pass by daily. This makes the OB look disgusting and unsafe. Please clear this area up!!!"
+
+Commonly Confused With
+
+Defer|Police
+
+D1: IT Issue
+
+Definition
+
+Description whose central theme is around problems with technical systems, typically reported by city staff or citizens interacting with city websites
+
+Examples 
+
+typos intended to mimic production data
+
+Easier to classify
+
+"Calling to get the wifi to work."
+
+More difficult to classify
+
+"I want to pay my water bill online, but your certificate is expired or your website has been hacked. I received this message with Internet Explorer and Firefox"
+
+Commonly Confused With
+
+Defer|IT Request
+
+D1: IT Request
+
+Definition
+
+Description whose central theme is around requesting some technical service or addition of a webpage or features to an existing webpage or app. Typically reported by city staff or citizens interacting with the city's website
+
+Examples 
+
+typos intended to mimic production data
+
+Easier to classify
+
+"I am trying to find a list of all city holidays. It looks like this should be the page with that information but there is no content here. I also cannot find the information elsewhere and don't think I should have to look at a Google calendar to see a list of city holidays."
+
+More difficult to classify
+
+"I like being able to submit my complaint, but wish I could review my comments, but this web page won't let me scroll back. Please contact me if you have any questions."
+
+Commonly Confused With
+
+Defer|IT Issue
+
+D1: Illicit Discharge
+
+Definition
+
+Description whose central theme is around the leaking or dumping of substances into the water or drainage systems of a city
+
+Examples 
+
+typos intended to mimic production data
+
+Easier to classify
+
+"The gentleman second from the right put his cigarette butt down the storm sewer. I don't mind him smoking, but putting that kind of carcinogen down the storm sewer is ecologically dangerous. please let him know this is unacceptable. thank you"
+
+More difficult to classify
+
+"Workers at a house 2 doors down the alley dumped a large amount of chemicals into the alley and it has leaked into street and storm drain"
+
+Commonly Confused With
+
+Hazmat|Chemical Complaint
+
+Hazmat|Chemical Discharge
+
+Hazmat|Chemical Disposal
+
+Solid Waster|Chemical Discharge
+
+D1: Irrigation Issue
+
+Definition
+
+Description whose central theme is around irrigation systems such as sprinklers. Typically regarding the system leaking or causing damage to other assets.
+
+Examples 
+
+typos intended to mimic production data
+
+Easier to classify
+
+"The caller advised that her neighbors sprinklers busted and that they are out of town."
+
+More difficult to classify
+
+"For years now, there has been a water flow from this strip mall grass area down to the intersection of El Cajon and Florida. The attached picture is from Google Maps, you can see how much water is running off their grass all the time and into the intersection, which continually causes degradation of the asphalt which the city has had to repair multiple times. Any way to stop the water from flowing?"
+
+Commonly Confused With
+
+*|Erosion
+
+Water|Water Leaking
+
+D1: Labor Request
+
+Definition
+
+Description whose central theme is around requesting city employees to complete some task that is not related to the maintenance of city systems
+
+Examples 
+
+typos intended to mimic production data
+
+Easier to classify
+
+"HELP CHRISTIE AT THE MAIL ROOM PICK UP A BUNCH OF MAIL TRAYS FROM THE SHALLOWFORD POST OFFICE AROUND 11:00AM 4-26-17"
+
+More difficult to classify
+
+"We need some renovations to the space in Suite 1006. Please see the attached conceptual layout. It involves the construction of two “ticket” windows and three doors."
+
+Commonly Confused With
+
+Defer|Maintenance Request
+
+D1: Landslide
+
+Definition
+
+Description whose central theme is around the movement of large amounts of substrate material in locations where it should not be
+
+Examples 
+
+typos intended to mimic production data
+
+Easier to classify
+
+"Citizen states that with all the rain they are noticing mudslides all over the place"
+
+More difficult to classify
+
+"mud and rocks 4 inches deep, wet, flowing across the street, 100 yards past E Brainerd Rd at Banks Rd intersection"
+
+Commonly Confused With
+
+*|Erosion
+
+D1: Maintenance Request
+
+Definition
+
+Description whose central theme is around the upkeep of common city systems or facilities. These are typically reported by city employees
+
+Examples 
+
+typos intended to mimic production data
+
+Easier to classify
+
+"Please turn the heat off in gym it is freezing everyone it is blowing cold air."
+
+More difficult to classify
+
+"Some type of fungus is growing on walls at Shepherd, rooms are, Multi-purpose room, game room, computer lab and weight room."
+
+Commonly Confused With
+
+Defer|Labor Request
+
+D1: Parking Meter Issue
+
+Definition
+
+Description whose central theme is around problems with city parking meters
+
+Examples 
+
+typos intended to mimic production data
+
+Easier to classify
+
+"Caller stating there are three broken parking meters where she is trying to park. These are on the west side of Baltimore between the 700 and 800 block. Please repair."
+
+More difficult to classify
+
+"CITIZEN IS CALLING IN TO REPORT DAMAGE METER ATTEMPT TO USE METER CARD WOULD NOT EXCEPT IT NOR THE QUARTERMETER IS IN FRONT OF UMB TECH BUILDING BUILDING"
+
+Commonly Confused With
+
+No known confusions at this time
+
+D1: Pests
+
+Definition
+
+Description whose central theme is related to insects and/or rodent infestations, reports, or complaints. These are typically reported in the context of city facilities
+
+Examples 
+
+typos intended to mimic production data
+
+Easier to classify
+
+""Roaches.....In broad daylight, they are crawling around the women's bathroom, 1st Floor. . Please send help!
+
+More difficult to classify
+
+"We are having a mice issue at the WellAdvantage center and would like to have all entrances to the building as well as along all walls to make sure there are no inlets for critters of any kind."
+
+Commonly Confused With
+
+No known confusions at this time
+
+D1: Police
+
+Definition
+
+Description whose central theme is related to situations that would most likely require police intervention
+
+Examples 
+
+typos intended to mimic production data
+
+Easier to classify
+
+"Drug dealer on corner"
+
+More difficult to classify
+
+"Same encampment of vagrants that has been there for weeks. They stay around the northwest planter night and day smoking meth and threatening residents. The curfew in this park does not seem to be enforced."
+
+Commonly Confused With
+
+Defer|Homeless Encampment
+
+D1: Question
+
+Definition
+
+Description whose central theme is around miscellaneous questions that do not fit well into other asset question label pairs as they are written
+
+Examples 
+
+typos intended to mimic production data
+
+Easier to classify
+
+"The caller stated that she is building a home on her property. She stated that along Stanley Rd, there are may wells. She we would like to know who she can speak with to find out if there is a water line on her property so that she can connect. She stated that she really does not want a well."
+
+More difficult to classify
+
+"The caller is calling for Lana Rey wants to know what the base rate is"
+
+Commonly Confused With
+
+Any other Question D1 label pair depending on description context or anchor words
+
+D1: Request Canceled
+
+Definition
+
+Description whose central theme is related to the cancellation of a report that was previously given or a request that was previously made
+
+Examples 
+
+typos intended to mimic production data
+
+Easier to classify
+
+"The caller is calling to cancel the call out."
+
+More difficult to classify
+
+"The caller said he received a message to call back, his water was out for 20 minutes and came back on. He has no further problem."
+
+Commonly Confused With
+
+No known confusions at this time
+
+D1: Retrieval Request
+
+Definition
+
+Description whose central theme is around a situation where an item was lost in a city system and the caller is in need of the city to assist in acquiring it 
+
+Examples 
+
+typos intended to mimic production data
+
+Easier to classify
+
+"The caller states the Wedding Ring fell in the Storm Drain."
+
+More difficult to classify
+
+"Citizen reporting their child's skate-board fell into the inlet at this location, on the northeast corner of Mokane & NW 65th St.Veronica Childress 513-4755, 7/17"
+
+Commonly Confused With
+
+Confusion
+
+Reason
+
+D1: Scooters
+
+Definition
+
+Description whose central theme is around the public scooter system in a city
+
+Examples 
+
+typos intended to mimic production data
+
+Easier to classify
+
+"I reported a scooter parked here on S Park Ave---714, I think--two days ago. Here is another this morning."
+
+More difficult to classify
+
+"What's it going to take to stop Bird from staging at these bike racks instead of the corral across the street?"
+
+Commonly Confused With
+
+No known confusions at this time
+
+D1: Service Complaint
+
+Definition
+
+Description whose central theme is around work done by the city that was unsatisfactory in some manner and that is not explicitly related to another city asset
+
+Examples 
+
+typos intended to mimic production data
+
+Easier to classify
+
+"ACCORDING TO RESIDENT, "WE DID WORK ON STREET OUTSIDE OF HOME, NOW THERERE HOLES IN LAWN." HE ASKED FOR REPAIRS OF GRASS AND HOLES TO BE FILLED."
+
+More difficult to classify
+
+"Water tubes have been left and abandoned by city employees for over two months play some somebody to pick them up"
+
+Commonly Confused With
+
+Any other Service Complaint D1 label pair depending on description context or anchor words
+
+D1: Service Request
+
+Definition
+
+Description whose central theme is around work a citizen is asking the city to perform that is not related to the maintenance of exisiting systems and that is not explicitly related to another city asset
+
+Examples 
+
+typos intended to mimic production data
+
+Easier to classify
+
+"Citizen would like to make a suggestions to have something to block the sun for the kids while they swim,or something to enhance the pool area to look better. This pool is a city pool at 4100 Kenwwod and Gillham Rd."
+
+More difficult to classify
+
+"Citizen states: "Would it be possible to get like a dump truck or two full of gravel to put down where the permanent mudhole is at the Brush Drop Off location at I470 and Raytown Road? It is very annoying when it is nice weather and your vehicle has been cleaned up to go there to drop off brush only to get mud slung all over your vehicle and underneath of it then you have to go to the carwash and spend another $10.00 and a half hour to clean it all up again. Thank you!"
+
+Commonly Confused With
+
+Defer|Labor Request
+
+Defer|Maintenance Request
+
+Any other Service Request D1 label pair depending on description context or anchor words
+
+D1: Snow and Ice
+
+Definition
+
+Description whose central theme is around snow or ice conditions in locations other than the street
+
+Notes
+
+These will be remapped to Streets|Snow and Ice in the future
+
+Examples 
+
+typos intended to mimic production data
+
+Easier to classify
+
+"The sidewalk in front of Brownstone Terrace on East 14th Street between Washington & Dunn is a sheet of ice. It is extremely dangerous."
+
+More difficult to classify
+
+"the issue of the ice is on 79th Terr behind the address given. It is a sheet of ice."
+
+Commonly Confused With
+
+Streets|Snow and Ice
+
+D1: Streetlight Complaint
+
+Definition
+
+Description whose central theme is around outages or issues with streetlights, other than the streetlight falling, in locations other than 
+
+Notes
+
+Traffic|Streetlight Complaint will be remapped to this label pair in the future
+
+Examples 
+
+typos intended to mimic production data
+
+Easier to classify
+
+"Citizen reporting all the lights are out in Case Park at 10th and Jefferson. The caller stated that none of the lights come on in the evening."
+
+More difficult to classify
+
+""Caller reporting a concern about light in Harmony Park. Security light is not coming on."
+
+Commonly Confused With
+
+Traffic|Streetlight Complaint
+
+D1: System Test
+
+Definition
+
+Description whose explicit purpose is to test the system
+
+Examples 
+
+typos intended to mimic production data
+
+Easier to classify
+
+"This is a test from Chippy. Nothing to see here"
+
+More difficult to classify
+
+"ignore this"
+
+Commonly Confused With
+
+No known confusions at this time
+
+D1: Tree Complaint
+
+Definition
+
+Description whose central theme is around issues with a tree other than the tree having fallen or the tree causing a hazard in conjunction with wires
+
+Examples 
+
+typos intended to mimic production data
+
+Easier to classify
+
+"This is in regards to case @2019186069. The case was closed stating that more information was needed. The citizen is reporting that the dead tree is behind his house on the city ROW. The bark is almost of the whole tree. They have not produced any tree leaves in 2 years. There are 2 trees and they sit on the ROW, behind his fence."
+
+More difficult to classify
+
+"Citizen called to report that the City planted a tree at the curb area about 1-month ago, and it died. They planted another tree at this same location once again, but this tree was not planted properly,and she stated the tree was leaning after it was planted in the ground. The citizen stated that they tried to take it upon themselves and fix the tree themselves, and replant this tree, but the tree still died. She wants a new tree planted at this location."
+
+Commonly Confused With
+
+Defer|Tree Request
+
+Defer|Downed Tree
+
+Defer|Tree in Wires
+
+D1: Tree Request
+
+Definition
+
+Description whose central theme is around requests for service related to trees other than removal of a fallen tree or service to a tree than is tangled in wires
+
+Examples 
+
+typos intended to mimic production data
+
+Easier to classify
+
+"The citizen is calling to report that they would like a permit to treat the tree themselves."
+
+More difficult to classify
+
+"Caller asking if the evergreen that has died on ward parkway and 85th NOT be replaced due to hard visibility problems. Citizen would pefer it to be left alone or at least plant tree back from the parkway so visibility not such a problem."
+
+Commonly Confused With
+
+Defer|Tree Complaint
+
+Defer|Downed Tree
+
+Defer|Tree in Wires
+
+D1: Tree in Wires
+
+Definition
+
+Description whose central theme is around reports of trees posing a potential threat due to interaction with wires
+
+Examples 
+
+typos intended to mimic production data
+
+Easier to classify
+
+"Citizen called requesting tree trimming.Trees on City property are growing into their fence and power lines."
+
+More difficult to classify
+
+"Private ree hanging on streetlight wire on duplex."
+
+Commonly Confused With
+
+Defer|Tree Complaint
+
+Defer|Downed Tree
+
+Defer|Tree Request
+
+D1: Unusable Description
+
+Definition
+
+Description without any clear central theme that aligns with an actionable label pair
+
+Examples 
+
+typos intended to mimic production data
+
+Easier to classify
+
+"No."
+
+More difficult to classify
+
+"Near the Valvoline Instant Oil pass the ramp on Hwy 58 Northbound"
+
+Commonly Confused With
+
+No known confusions at this time
+
+D1: Utility Locate
+
+Definition
+
+Description whose central theme is around requesting a utility locate service in order to perform construction or maintenance to an asset
+
+Examples 
+
+typos intended to mimic production data
+
+Easier to classify
+
+"The caller is a contractor and called for sewer location"
+
+More difficult to classify
+
+"TODD MCCAIN OWNER REPORTING WORKING ON REPAIRS TO THEIR SEWER MAIN AND THEY NEED TO DIG UNDER ALLEY AND WANT TO KOW WHAT THEY NEED TO DO"
+
+Commonly Confused With
+
+No known confusions at this time
+
+D1: Wires
+
+Definition
+
+Description whose central theme is around hazards posed by exposed or displaced wires
+
+Examples 
+
+typos intended to mimic production data
+
+Easier to classify
+
+"Wires down at Wyeth St (near Eastern Ave)"
+
+More difficult to classify
+
+"Electric pole is leaning towards a duplex. The lines are quite low."
+
+Commonly Confused With
+
+Power|Wires
+
+D0: Fleet
+
+D1: Vehicle Maintenance
+
+Definition
+
+Description whose central theme is around city vehicles requiring maintenance
+
+Examples 
+
+typos intended to mimic production data
+
+Easier to classify
+
+"Citizen is calling to report that the driver brake tail light is out on truck number 7183, blue truck with tool boxes on the back."
+
+More difficult to classify
+
+"She is calling with the PD. One of the city vans at the waterworks, the horn is constantly going off."
+
+Commonly Confused With
+
+Code Enforcement|Abandoned Vehicle
+
+D0: Gas
+
+D1: Gas Asset Issue
+
+Definition
+
+Description whose central theme is around problems with a specific gas asset other than a leak, a service interruption, or a request to turn the gas off
+
+Examples 
+
+typos intended to mimic production data
+
+Easier to classify
+
+"Possible gas line appears hit by something, twisted up and distorted piping on the right of way, three houses southwest of 2207 Vivion; please check and notify the utility concerned."
+
+More difficult to classify
+
+"There is a main gas line under the ivy and a fence is collapsing on top of it could cause gas leak!!! In alley behind 4066 43rd street between Polk and university."
+
+Commonly Confused With
+
+Gas|Gas Leak
+
+D1: Gas Leak
+
+Definition
+
+Description whose central theme is around leaking of gas
+
+Examples 
+
+typos intended to mimic production data
+
+Easier to classify
+
+"Citizen is claiming there is a gas leak with an odor "
+
+More difficult to classify
+
+"Customer reporting a hissing sound and where there is dead grass on their lawn."
+
+Commonly Confused With
+
+Gas|Gas Asset Issue
+
+D1: Question
+
+Definition
+
+Description whose central theme is around citizens requesting information about the gas asset
+
+Examples 
+
+typos intended to mimic production data
+
+Easier to classify
+
+"She wants to know who does she need to have come out and inspect her gas line to have her gas turned on."
+
+More difficult to classify
+
+No example to date
+
+Commonly Confused With
+
+No known confusions as of yet
+
+D1: Service Complaint
+
+Definition
+
+Description whose central theme is around work having been done on the gas asset that was either unsatisfactory, incomplete, or caused other damage to the either the gas asset or another asset
+
+Examples 
+
+typos intended to mimic production data
+
+Easier to classify
+
+"Citizen is reporting Spire has been working on gas lines in the street on Summit for the past 10 weeks. States cuts were made in the street and all but one have been repaired. Cut is in front of this address, citizen would like to makek sure Spire is aware they need to fill in the cut."
+
+More difficult to classify
+
+"ENTERGY RAN A NEW GAS LINE IN FRONT OF OUR HOUSE AND NEVER REPAIRED THE SIDEWALK IN TWO PLACES."
+
+Commonly Confused With
+
+All other Service Complaint D1 label pairs depending on context of description or anchor words
+
+D1: Service Interruption
+
+Definition
+
+Description whose central theme is around a gas outage
+
+Examples 
+
+typos intended to mimic production data
+
+Easier to classify
+
+"Caller states an interruption in their gas service is preventing them from cooking and cleaning."
+
+More difficult to classify
+
+"Caller reports the gas heater in their home is not producing heated air, only cold. "
+
+Commonly Confused With
+
+No known confusions at this time
+
+D1: Shutoff Request
+
+Definition
+
+Description whose central theme is around a citizen requesting temporary or permanent discontinuation of the gas asset
+
+Examples 
+
+typos intended to mimic production data
+
+Easier to classify
+
+"I need a temporary gas shut off at Urban Cafe, we are getting a new oven range installed on Monday."
+
+More difficult to classify
+
+No examples to date
+
+Commonly Confused With
+
+No know confusions at this time
+
+D0: Hazmat
+
+D1: Bodily Fluids
+
+Definition
+
+Description whose central theme is around the occurrence of human or animal bodily fluids in public places
+
+Examples 
+
+typos intended to mimic production data
+
+Easier to classify
+
+"This is human feces at the post office. I should not have to walk through feces and urine to check my mail."
+
+More difficult to classify
+
+"People pooping on sidewalk of Edison Elementary parking lot by alley north side of building"
+
+Commonly Confused With
+
+No known confusions at this time
+
+D1: Chemical Complaint
+
+Definition
+
+Description whose central theme is around harmful chemicals in locations where they do not belong but that are not leaking into the environment
+
+Examples 
+
+typos intended to mimic production data
+
+Easier to classify
+
+"a large discarded gas tank on the ground here"
+
+More difficult to classify
+
+"Citizen called to report that the resident at 329 N Oakley have 2 gallon gas cans sitting outside in the alley area which is a hazard and can cause a fire....Citizen wants this cleared before anything happens.....Citizen was not sure if anyone still lived in that house...."
+
+Commonly Confused With
+
+Defer|Illicit Discharge
+
+Hazmat|Chemical Discharge
+
+Hazmat|Chemical Disposal
+
+Solid Waste|Chemical Discharge
+
+D1: Chemical Discharge
+
+Definition
+
+Description whose central theme is around chemicals being dumped or leaking in some location but WITHOUT mention of the chemicals making their way into the drainage system. This excludes cases of chemicals leaking from solid waste collection trucks
+
+Examples 
+
+typos intended to mimic production data
+
+Easier to classify
+
+"Our neighbor has been dumping motor oil in our yard for years. We haven't repoted it in fear of reprizals, but he is poising our trees. To truly "catch him" for remediation costs for example, do we need an actual photo of him doing it? He is the only one doing mechanic work (LOTS!) on our street, and we live right next to him. I am afraid for our health."
+
+More difficult to classify
+
+"Discarded used oil and cement"
+
+Commonly Confused With
+
+Hazmat|Chemical Complaint
+
+Defer|Illicit Discharge
+
+Hazmat|Chemical Disposal
+
+Solid Waste|Chemical Discharge
+
+D1: Chemical Disposal
+
+Definition
+
+Description whose central theme is around citizens who want information on responsible disposal of their chemical waste
+
+Examples 
+
+typos intended to mimic production data
+
+Easier to classify
+
+"I have 15 gallons of paint thinner I want to take to a San Diego drop off facility on Convoy but the recording said use Get it Done app due to covid19"
+
+More difficult to classify
+
+"Caller wanted to get rid of paint cans."
+
+Commonly Confused With
+
+Hazmat|Chemical Complaint
+
+Hazmat|Chemical Discharge
+
+Defer|Illicit Discharge
+
+Solid Waste|Chemical Discharge
+
+D1: Sharps
+
+Definition
+
+Description whose central theme is around the observance of medical waste in the form of hypodermic needles in public places
+
+Examples 
+
+typos intended to mimic production data
+
+Easier to classify
+
+"My son and I were walking to the park and he picked up a hippodermic needle. I am discusted!"
+
+More difficult to classify
+
+"HEALTH HAZARD: what looks like a bundle of medical waste, looks like hospital waste at intersection of Parkwood and Kilmer must of fallen off a waste disposal truck."
+
+Commonly Confused With
+
+No known confusions at this time
+
+D0: Health
+
+D1: Social Distancing Violation
+
+Definition
+
+Description whose central theme is around companies or individuals not complying with COVID-19 measures
+
+Notes
+
+Defer|Social Distancing Violation will be merging with the label pair in the future
+
+Examples 
+
+typos intended to mimic production data
+
+Easier to classify
+
+"An Employee tested Positive for COVID-19 on 9/18, no one was told to quarantine or get tested. There are no protective measures taking place."
+
+More difficult to classify
+
+"The shell at this gas station is not wearing masks and they let people in also. Needs to be looked in to."
+
+Commonly Confused With
+
+Defer|Social Distancing Violation
+
+D1: Vaccinations
+
+Definition
+
+Description whose central theme is around the topic of vaccination information
+
+Examples 
+
+typos intended to mimic production data
+
+Easier to classify
+
+"She is calling for a Covid vaccine for people who has asthma and is not sure where to go."
+
+More difficult to classify
+
+"The caller needs the number for COVID-19 shot."
+
+Commonly Confused With
+
+No known confusions at this time
+
+D0: Power
+
+D1: Meter Issue
+
+Definition
+
+Description whose central theme is around usability, damage or displacement of a power meter
+
+Examples 
+
+typos intended to mimic production data
+
+Easier to classify
+
+"They came to replace her electric meter this morning. After that, she tried to use her oven and it is not working now."
+
+More difficult to classify
+
+"There is a burned up meter and a meter scan is needed."
+
+Commonly Confused With
+
+Water|Meter Issue
+
+D1: Power Asset Issue
+
+Definition
+
+Description whose central theme is around usability (with the exception of an outage), damage or displacement of a power asset other than a power meter
+
+Examples 
+
+typos intended to mimic production data
+
+Easier to classify
+
+No examples to date
+
+More difficult to classify
+
+"Green plastic box for the electricity is loose. Kids are able to play with electricity. Box is behind lot 29."
+
+Commonly Confused With
+
+No known confusions at this time
+
+D1: Service Complaint
+
+Definition
+
+Description whose central theme is around work having been done on the power asset that was either unsatisfactory, incomplete, or caused other damage to the either the power asset or another asset
+
+Examples 
+
+typos intended to mimic production data
+
+Easier to classify
+
+No examples to date
+
+More difficult to classify
+
+"New Power Pole still laying in yard. RS Electric finished the rest of the street months ago."
+
+Commonly Confused With
+
+All other Service Complaint D1 label pairs depending on description context and anchor words
+
+D1: Service Disconnected
+
+Definition
+
+Description whose central theme is around a lack of power service for reasons related to bill payment or lack there of
+
+Examples 
+
+typos intended to mimic production data
+
+Easier to classify
+
+"She made a payment online and her power is off."
+
+More difficult to classify
+
+"They payed their electricity bill but they don't have electricity yet."
+
+Commonly Confused With
+
+No known confusions at this time
+
+D1: Service Interruption
+
+Definition
+
+Description whose central theme is around a lack of the power service for any reason other than lack of bill payment
+
+Examples 
+
+typos intended to mimic production data
+
+Easier to classify
+
+"Electricity is out in our tract"
+
+More difficult to classify
+
+"Lights in the house have flickered on and off within the last hour."
+
+Commonly Confused With
+
+No known confusions at this time
+
+D1: Service Request
+
+Definition
+
+Description whose central theme is around work a citizen is asking the city to perform that related to the power asset
+
+Examples 
+
+typos intended to mimic production data
+
+Easier to classify
+
+No examples to date
+
+More difficult to classify
+
+"Need electric line coming into the house loosened for painting, and then put back afterward."
+
+Commonly Confused With
+
+No known confusions at this time
+
+D1: Shutoff Request
+
+Definition
+
+Description whose central theme is around a citizen requesting temporary or permanent discontinuation of the power asset
+
+Examples 
+
+typos intended to mimic production data
+
+Easier to classify
+
+No examples to date
+
+More difficult to classify
+
+"Wanted to make sure electrical is disconnected at location given."
+
+Commonly Confused With
+
+No known confusions at this time
+
+D1: Transformer Issue
+
+Definition
+
+Description whose central theme is around problems with power transformers
+
+Examples 
+
+typos intended to mimic production data
+
+Easier to classify
+
+"The Transformer has blown and it's it's at the driveway of 2381 Willis Road, Berea."
+
+More difficult to classify
+
+"With out power. There is a electrical pole across the street has loud explosion with fire coming out when the electricity comes back on then it goes back out again keeps cycleing"
+
+Commonly Confused With
+
+No known confusions at this time
+
+D1: Turn On Request
+
+Definition
+
+Description whose central theme is around a request to reinstate the power asset service after a period when it has been off by request
+
+Examples 
+
+typos intended to mimic production data
+
+Easier to classify
+
+No example to date
+
+More difficult to classify
+
+"A dispatcher disconnected her power and she was told to call back to reconnect the power the electrician is currently installing the new can on the house."
+
+Commonly Confused With
+
+No known confusions at this time
+
+D1: Wires
+
+Definition
+
+Description whose central theme is around hazards posed by exposed or displaced wires
+
+Examples 
+
+typos intended to mimic production data
+
+Easier to classify
+
+No examples to date
+
+More difficult to classify
+
+"Secondary line that is loose behind his home. The first pole is south of 15th St in between Apple Lane and Orchard Dr."
+
+Commonly Confused With
+
+No known confusions to date
+
+D0: Sewer
+
+D1: Administration
+
+Definition
+
+Description whose central theme is around requiring some sort of help or consultation with a particular individual. Other broad categorization of "administrative help" fall into this label pair as well. All should be related to the sewer asser
+
+Examples 
+
+typos intended to mimic production data
+
+Easier to classify
+
+No examples to date
+
+More difficult to classify
+
+""Citizen calling regarding a postcard she received regarding smart sewer in her area. The number given is disconnected. She'd like a return call."
+
+Commonly Confused With
+
+No known confusions at this time
+
+D1: Cave-In
+
+Definition
+
+Description whose central theme is around large holes forming in various locations as it relates to the sewer asset
+
+Examples 
+
+typos intended to mimic production data
+
+Easier to classify
+
+"THERE IS A SIZE ABLE HOLE UNDER AND ON THE SIDE OF OUR DRIVEWAY. DPW CAME AND SMOKE TESTED THE SEWER AND SMOKE CAME FROM THE DRIVEWAY INDICATING THAT IT WAS AN ISSUE WITH THE SEWER LINE. BOTH NEIGHBORS ON EITHER SIDE OF US HAVE HAD REPAIRS MADE TO THEIR PROPERTIES, BUT OUR ISSUE REMAINS UNCORRECTED. THE HOLE CONTINUES TO GET BIGGER AND IS A HAZARD.
+
+More difficult to classify
+
+"Sewer area in road has deep depressions that stretch from front from of house down to Ely road. Road is horrible and deeps in several places causing car to drag."
+
+Commonly Confused With
+
+Defer|Cave-In
+
+Stormwater|Cave-In
+
+Streets|Pothole
+
+Sewer|Manhole Complaint
+
+D1: Manhole Complaint
+
+Definition
+
+Description whose central theme is around any issues with manholes with the exception of damage that is identifiable as aCave-In
+
+Examples 
+
+typos intended to mimic production data
+
+Easier to classify
+
+"Caller stated that the manhole cover that sits in her frontyard is collapsing/sinking into the ground. Caller stated that the depression is fairly small."
+
+More difficult to classify
+
+"The City Drain Cover is not up do code. Someone could walk over and fall in. Needs fixed immediately"
+
+Commonly Confused With
+
+Sewer|Cave-In
+
+Streets|Pothole
+
+D1: Odor Complaint
+
+Definition
+
+Description whose central theme is around citizens reporting smells that are indicative of issues with the sewer asset
+
+Examples 
+
+typos intended to mimic production data
+
+Easier to classify
+
+"Citizen called to report the Pied Creek Pump Station located at 6615 NW Eastside Drive KCMO 64152. Citizen reported a strong sewer smell for the last 3 weeks, but it got worst yesterday, you can't seat outside due to the strong smell in the surrounding neighborhoods from this water plant."
+
+More difficult to classify
+
+"Caller is reporting strong sew gas smell inside of her home."
+
+Commonly Confused With
+
+Water|Odor Complaint
+
+D1: Pump Issue
+
+Definition
+
+Description whose central theme is around issues with the sewer pumps
+
+Examples 
+
+typos intended to mimic production data
+
+Easier to classify
+
+"Grinder pump alarm is going off"
+
+More difficult to classify
+
+"works but never turns off--red light was on previously, they fixed it, now it won't turn off, it is empty--electrical connection to pump is cracked, rusted fitting, plastic broken, rain gets in"
+
+Commonly Confused With
+
+Sewer|Pump Station Issue
+
+D1: Pump Station Issue
+
+Definition
+
+Description whose central theme is around problems with or failure of the sewer pump station
+
+Examples 
+
+typos intended to mimic production data
+
+Easier to classify
+
+"OVERFLOW OUTSIDE OF THE PUMP STATION"
+
+More difficult to classify
+
+"CALLER STATED STATION IS DOWN & SEWAGE IS OVERFLOWING"
+
+Commonly Confused With
+
+Sewer|Pump Issue
+
+D1: Question
+
+Definition
+
+Description whose central theme is around citizens requesting information about the sewer asset
+
+Examples 
+
+typos intended to mimic production data
+
+Easier to classify
+
+"Citizen is currently on septic at this location which also includes the lot at 2021 NE Vivion Rd, and is requesting information in regards to the process required to hook up to the City sewer line."
+
+More difficult to classify
+
+"Citizen is calling to report that the owners of this residence are selling their home and have a sewer line that is cracked and would like to know if repairs can be made up to the City sewerline."
+
+Commonly Confused With
+
+All other Question D1 label pairs depending on context and anchor words
+
+D1: Septic Tank Issue
+
+Definition
+
+Description whose central theme is around problems with a septic tanks system 
+
+Examples 
+
+typos intended to mimic production data
+
+Easier to classify
+
+"Caller's septic system is really smelly. Something must be wrong with it"
+
+More difficult to classify
+
+"Caller states the tree in their back yard is growing into their tank. It smells really bad and they need someone from the city to help"
+
+Commonly Confused With
+
+Sewer|Sewer Blockage
+
+D1: Service Complaint
+
+Definition
+
+Description whose central theme is around work having been done on the sewer asset that was either unsatisfactory, incomplete, or caused other damage to the either the sewer asset or another asset
+
+Examples 
+
+typos intended to mimic production data
+
+Easier to classify
+
+"Caller is reporting two street cuts in the street at this location. Per records there is a sewer repair pending in this area. Caller states that going West there are not signs informing of the hole. Caller hit the road and damaged his tires. As of now there are not plates."
+
+More difficult to classify
+
+"Citizen states the north side of the street was not cleaned of debris after the city did sewer work. They came and cleaned up the west side but now the rain has caused the whole street to be full of debris again. "
+
+Commonly Confused With
+
+All other Service Complaint D1 labels depending on context or anchor words
+
+D1: Service Request
+
+Definition
+
+Description whose central theme is around work a citizen is asking the city to perform that related to the sewer asset
+
+Examples 
+
+typos intended to mimic production data
+
+Easier to classify
+
+"The caller is calling to add a new sewer line."
+
+More difficult to classify
+
+"Citizen is reporting a collapse sewer line in the street on the city side. Inspector Jordan Vaughn advise the citizen to call and get a ticket made for repairs. There is no active sewage. They did contact a Plummer in the past about 3-4 months ago and they gave the same results but he couldn’t do because it wasn’t on the property line."
+
+Commonly Confused With
+
+All other Service Request D1 labels depending on context or anchor words
+
+D1: Sewer Blockage
+
+Definition
+
+Description whose central theme is around lack of drainage or overflowing that is specific to the sewer asset
+
+Examples 
+
+typos intended to mimic production data
+
+Easier to classify
+
+"Sewage is coming up around the base of the commode."
+
+More difficult to classify
+
+"nothing is draining in the house"
+
+Commonly Confused With
+
+Water|Water Leaking
+
+Sewer|Manhole Complaint
+
+D0: Solid Waste
+
+D1: Chemical Discharge
+
+Definition
+
+Description whose central theme is around chemicals being dumped or leaking from solid waste collection trucks in some location but without mention of the chemicals making their way into the drainage system. 
+
+Examples 
+
+typos intended to mimic production data
+
+Easier to classify
+
+"CALLER STATES THAT THE GARBAGE TRUCK IS LEAKING OIL ALL OVER THE STREET UP AND DOWN ."
+
+More difficult to classify
+
+"OIL SPILLED FROM REPUBLIC TRUCK"
+
+Commonly Confused With
+
+Hazmat|Chemical Complaint
+
+Hazmat|Chemical Discharge
+
+Defer|Illicit Discharge
+
+Solid Waste|Chemical Discharge
+
+D1: Collection Request
+
+Definition
+
+This is the definition
+
+Examples 
+
+typos intended to mimic production data
+
+Easier to classify
+
+"Citizen is requesting to have trash picked up on E 53rd St. side of the home near her driveway. Please send disabled pick up request forms."
+
+More difficult to classify
+
+"She spoke to someone else. She has solid weights with trash that is outside and it is raining. She wants someone to pick it up in the morning tomorrow."
+
+Commonly Confused With
+
+Solid Waste|Container Complaint
+
+Solid Waste|Missed Collection
+
+D1: Container Complaint
+
+Definition
+
+Description whose central theme is around problems with or requests for trash receptacles
+
+Examples 
+
+typos intended to mimic production data
+
+Easier to classify
+
+"GARBAGE CART IS CRACKED & FALLING APART"
+
+More difficult to classify
+
+"claw punched a hole in can"
+
+Commonly Confused With
+
+Solid Waste|Missed Collection
+
+D1: Missed Collection
+
+Definition
+
+Description whose central theme is around trash pickup not being completed
+
+Examples 
+
+typos intended to mimic production data
+
+Easier to classify
+
+"Citizen called in stating she had her bulky items out to the curb by 7:00 a.m. on Tuesday Oct 16 and it is now Thursday Oct 18 and items have not been picked up."
+
+More difficult to classify
+
+"Green waste containers in the alley between the 3700 block of Amaryllis Dr and Lotus Street not serviced."
+
+Commonly Confused With
+
+Solid Waste|Collection Request
+
+D1: Question
+
+Definition
+
+Description whose central theme is around citizens requesting information about the waste collection asset
+
+Examples 
+
+typos intended to mimic production data
+
+Easier to classify
+
+"Citizen is requesting the information for the recycling centers that are used for our recycling since it is outsourced. Citizen would like the information today (12/04/19)."
+
+More difficult to classify
+
+"He would like to know if he can still drop off glass and card board after hours. He has been told he can drop it off after hours."
+
+Commonly Confused With
+
+All other Question D1 label pairs depending on context and anchor words
+
+D1: Request Canceled
+
+Definition
+
+Descriptions whose central theme is around cancelling a request for trash pickup
+
+Examples 
+
+typos intended to mimic production data
+
+Easier to classify
+
+"Citizen called to cancel bulky appt fot the 15th Oct."
+
+More difficult to classify
+
+"Refer to case# 02871763. Resident is requesting to delete the recycle container order. She claims she recycles at work and doesn't need a recycle container. I told her it was mandatory for every household to have one but she doesn't want one."
+
+Commonly Confused With
+
+No known confusions at this time
+
+D1: Service Complaint
+
+Definition
+
+Description whose central theme is around waste collection or work having been done during waste collection that was either unsatisfactory, incomplete, or caused other damage to the containers or another asset
+
+Examples 
+
+typos intended to mimic production data
+
+Easier to classify
+
+"A city garbage truck backed up into our fence."
+
+More difficult to classify
+
+"Citizen called to report that the recycle collectors do not collect all of her recyclables. Citizen's main concern is that they leave the items that they do not collect all over the yard and out in the street."
+
+Commonly Confused With
+
+Any other Service Complaint D1 label pair depending on context and anchor words
+
+D0: Stormwater
+
+D1: Cave-In
+
+Definition
+
+Description whose central theme is around large holes forming in various locations as it relates to the weather and/or the stormwater asset
+
+Examples 
+
+typos intended to mimic production data
+
+Easier to classify
+
+No examples as of yet
+
+More difficult to classify
+
+""I SENT ALL THESE PICTURES LAST WEEK ABOUT A DRAINAGE SYSTEM THAT RUNS UNDER BEAUREGARD TOWN, SPECIFICALLY UNDER MY CARPORT AND MY HOUSE. IT IS CAVING IN, IN MY NEIGHBOR TO THE NORTH OF ME AND IN THE CORNER OF MY YARD AND IS AFFECTING THE INTEGRITY OF MY CARPORT, AND IAM CONCERNED ABOUT MY HOUSE FOUNDATION. THE NEIGHBORS HAVE REPORTING THIS OVER FOUR YEARS. IF I DON’T GET A REPOSE SOON I WILL BE FORCED TO CONTACT SOMEONE ELSE TO HELP ME. I HAVE A VIDEO OF WATER RUSHING THROUGH IT AFTER YESTERDAY’S RAIN. IT IS SCARY. I AM ALSO CONCERNED IF A CHILD OR A PET WOULD FALL IN IT."
+
+Commonly Confused With
+
+Defer|Cave-In
+
+Sewer|Cave-In
+
+Streets|Pothole
+
+Sewer|Manhole Complaint
+
+D1: Ditch Complaint
+
+Definition
+
+Descriptions whose central theme is around citizens calling in with complaints about ditches. This excludes complaints about the drains
+
+Examples 
+
+typos intended to mimic production data
+
+Easier to classify
+
+""Citizen reporting that the storm runoff improved channel for the rain water is full, so it may be clogged.
+
+More difficult to classify
+
+"The brush is overgrown at the culvert and dumping silt in the storm water. Needs to be cut back."
+
+Commonly Confused With
+
+Defer|Debris Complaint
+
+Defer|Easement Maintenance
+
+Stormwater|Drain Complaint
+
+D1: Drain Blockage
+
+Definition
+
+Description whose central theme is around a lack of proper drainage in a public place that is related to the stormwater systems
+
+Examples 
+
+typos intended to mimic production data
+
+Easier to classify
+
+"The caller states the storm drain across from her house is stopped up often because people put large items in it."
+
+More difficult to classify
+
+"Street Dept. received this complaint this a.m. There is standing water in the alley west of Dodds. (drainage problem). If this should be handled by Street Dept. please call them."
+
+Commonly Confused With
+
+Defer|Debris Complaint
+
+Defer|Easement Maintenance
+
+Stormwater|Drain Complaint
+
+D1: Drain Complaint
+
+Definition
+
+Description whose central theme is around problems with drains in a public place that do not include immediate blockage
+
+Examples 
+
+typos intended to mimic production data
+
+Easier to classify
+
+"Report of a catch basin on NE corner W 39th st and Wyoming that top slab of corner concrete has been hit causing a 4 inch sharp edge"
+
+More difficult to classify
+
+"Citizen calling because someone put a grate over the storm drain and requesting the grate to be removed. The grate gets clogged and causes flooding."
+
+Commonly Confused With
+
+Defer|Debris Complaint
+
+Defer|Easement Maintenance
+
+Stormwater|Drain Blockage
+
+Stormwater|Ditch Complaint
+
+D1: Drainage Violation
+
+Definition
+
+Description whose central theme is around water draining onto the citizen's property or another referenced property due to the actions of another party or improper infrastructure
+
+Note
+
+These will be remapped to Code Enforcement|Drainage Complaint in the future
+
+Examples 
+
+typos intended to mimic production data
+
+Easier to classify
+
+No examples as of yet
+
+More difficult to classify
+
+"This home and its neighbor at 1174 Bangor Street have water constantly draining onto the sidewalk and into the street and storm drain. The sidewalk is now covered in algae and impassible and an extreme slip risk for anyone that inadvertently steps here."
+
+Commonly Confused With
+
+Code Enforcement|Drainage Violation
+
+*|Flooding
+
+Code Enforcement|Construction Complaint
+
+*|Erosion
+
+D1: Erosion
+
+Definition
+
+Description whose central theme is around the washing away or absence of top soil or a similar material due to weather patterns and the stormwater systems
+
+Examples 
+
+typos intended to mimic production data
+
+Easier to classify
+
+No examples as of yet
+
+More difficult to classify
+
+"Citizen is wondering if a Storm Water Engineer can come out and investigate the runoff behind the houses on the south side of W 86th St. Citizen is reporting that, in his back yard, there is an additional foot of dirt that has washed down from the top of the hill just this spring and summer. The dirt is washing through fences and damaging property."
+
+Commonly Confused With
+
+Defer|Erosion
+
+*|Flooding
+
+Defer|Landslide
+
+D1: Flooding
+
+Definition
+
+Description whose central theme is around cases of large amounts of water gathering in a location that can be directly traced back to weather related causes
+
+Notes
+
+In the future, an additional model will be built to localize these flooding instances further
+
+Examples 
+
+typos intended to mimic production data
+
+Easier to classify
+
+More difficult to classify
+
+Commonly Confused With
+
+Water|Flooding
+
+Defer|Flooding
+
+*|Erosion
+
+D1: Manhole Complaint
+
+Definition
+
+Description whose central theme is around issues with manholes associated with the stormwater systems. Excludes sewer related manholes
+
+Examples 
+
+typos intended to mimic production data
+
+Easier to classify
+
+"Citizen is reporting the manhole on the catch basin is damage and open. This is a large manhole that a grown person can fall into it. This is directly in front of this property."
+
+More difficult to classify
+
+"ON WYANDOTTE BETWEEN 10TH AND 11TH ST STORM DRAIN COVER IS MISSING. THERE ARE TWO CONES AT LOCATION. "
+
+Commonly Confused With
+
+Sewer|Manhole Complaint
+
+D1: Odor Complaint
+
+Definition
+
+Description whose central theme is around citizens reporting smells that are indicative of issues with the stormwater asset
+
+Examples 
+
+typos intended to mimic production data
+
+Easier to classify
+
+"Citizen is calling to report that the catch basin in front of this building has a very stagnant, sewer odor, very strong."
+
+More difficult to classify
+
+"Several years ago, the city of Chattanooga installed a large, back up drain water cistern in front of our office entrance door. We've noticed that in the warmer months it begins to stink really bad. The drain is starting to stink really, really bad now. Like maybe something is dead in it. Can we have the City come out to pour a bunch of disinfectant into it and/or flush it out ASAP? People are complaining when they walk into our offices."
+
+Commonly Confused With
+
+Any other Odor Complaint D1 depending on context and anchor words
+
+D1: Question
+
+Definition
+
+Description whose central theme is around citizens requesting information about the stormwater asset
+
+Examples 
+
+typos intended to mimic production data
+
+Easier to classify
+
+"The caller advised their are in the neighborhood and under HOA. They got notification on their stormwater retention area and wants to know if HOA takes care of that or if they are responsible."
+
+More difficult to classify
+
+"Citizen is a paving contractor and will be paving the parking lot at Jack Stack tomorrow. Contractor has questions regarding the grade as it approaches the storm drain in the parking lot. Please call the citizen."
+
+Commonly Confused With
+
+Any other Question D1 label pair depending on context and anchor words
+
+D1: Service Complaint
+
+Definition
+
+Description whose central theme is around work having been done on the stormwater asset that was either unsatisfactory, incomplete, or caused other damage to the either the stormwater asset or another asset
+
+Examples 
+
+typos intended to mimic production data
+
+Easier to classify
+
+"Citizen is requesting that a supervisor over the work that was supposedly done by the crew cleaning the storm drains in the area of 3614 E 46th Ter. Citizen states that large tire marks were left in the yard and among other damage."
+
+More difficult to classify
+
+"The caller is reporting workers in the area today flushing the storm drains. The workers are leaving the trucks running while performing the work. The citizen approached asked them to turn the truck motor off but was told they could not they had to leave them running. The citizen feels this is polluting the air and the noise is a nuisance."
+
+Commonly Confused With
+
+Any other Service Complaint D1 label pair depending on context and anchor words
+
+D1: Service Request
+
+Definition
+
+Description whose central theme is around work a citizen is asking the city to perform that related to the stormwater asset
+
+Examples 
+
+typos intended to mimic production data
+
+Easier to classify
+
+No examples as of yet
+
+More difficult to classify
+
+""Citizen is calling to have the city drain line in her back yard at 4848 NE Dean Ln connected to the city line in the that runs into the neighboring line at 4901 N Antioch Rd as she gets all the trash from that line in her yard when the water pools. Please call this citizen as she needs to be at home when someone from storm water comes out there.
+
+Commonly Confused With
+
+Any other Service Request D1 label pair depending on context and anchor words
+
+D0: Streets
+
+D1: Crash Barrier Complaint
+
+Definition
+
+Description whose central theme is around damage to or complaints about guardrails, pylons, water barrels or other crash barriers
+
+Examples 
+
+typos intended to mimic production data
+
+Easier to classify
+
+"GUARDRAIL FELL INTO THE CANAL AT THE CORNER OF W TAMS AND SHARP LN"
+
+More difficult to classify
+
+"The water barrels at the fork in the highway leaked and I feel like they would not work now if someone ran into them"
+
+Commonly Confused With
+
+Streets|Delineators
+
+Streets|Crash Barrier Request
+
+D1: Crash Barrier Request
+
+Definition
+
+Description whose central theme is around requests for repair or placement of complaints about guardrails, pylons, water barrels or other crash barriers
+
+Examples 
+
+typos intended to mimic production data
+
+Easier to classify
+
+"REQUEST GUARDRAIL BE PLACED IN THE CURVE IN FRONT OF THE ABOVE LOCATION /THE CURVE IS DANGEROUS AND A LOT OF CARS AND MOTORCYCLES HAVE GONE OVER INTO THE DITCH"
+
+More difficult to classify
+
+"I would like to see way more crash cushions installed on our highways."
+
+Commonly Confused With
+
+Streets|Delineators
+
+Streets|Crash Barrier Complaint
+
+D1: Delineators
+
+Definition
+
+Description whose central theme is around objects whose purpose is to identify and/or block certain locations, paths or other objects
+
+Examples 
+
+typos intended to mimic production data
+
+Easier to classify
+
+"The cones blocking off a closed lane on the highway are all knocked over."
+
+More difficult to classify
+
+"Ballard to canoe launch is broken and can't be locked to keep people from driving down to canoe launch."
+
+Commonly Confused With
+
+Streets|Crash Barrier Complaint
+
+Streets|Crash Barrier Request
+
+D1: FYI
+
+Definition
+
+Description whose central theme is the report of seemingly meaningless information that isn't actionable for the city in real time, as it relates to streets
+
+Examples 
+
+typos intended to mimic production data
+
+Easier to classify
+
+No examples as of yet
+
+More difficult to classify
+
+"Citizen is calling because he see 2 street sweepers around 65th ST and Broadway. He states that it is raining outside and states that we are losing money and wasting our time sweeping the streets. Citizen is disgusted that we are out doing this at this time and wanted to know who put the orders out for them to sweep the streets. Please investigate this and call this irate citizen back."
+
+Commonly Confused With
+
+Defer|FYI
+
+D1: Metal Plate Complaint
+
+Definition
+
+Description whose central theme is around issues with metal plates that have been placed in the street to smooth surfaces or block holes
+
+Examples 
+
+typos intended to mimic production data
+
+Easier to classify
+
+"Citizen is calling to report a metal plate with a spike/pin that holds the plate down is sticking up and can cause damage to the driver's tires. Citizen states that this is a plate on the SE corner of 12th & Oak near the Court house."
+
+More difficult to classify
+
+"Citizen reports water department put plate over hole now it has came loose and now there is a big hole large enough for someone to fall down in it dispatch call"
+
+Commonly Confused With
+
+No known confusions at this time
+
+D1: Painting
+
+Definition
+
+Descriptions whose central theme is related to painting that needs to be done for roads or for painting that was done but either was incorrectly done or not fully completed. 
+
+Examples 
+
+typos intended to mimic production data
+
+Easier to classify
+
+"Caller reports from Shoal Creek Pkwy to 152 Highway there are no lane markings."
+
+More difficult to classify
+
+"Someone painted the stripes on the road before a big rain now there is yellow paint all over the road and getting on cars up and down this street. Hopefully the yellow paint is not permanent on these vehicles. Not sure the project management protocols, but may be wise to paint on days it's not supposed to rain."
+
+Commonly Confused With
+
+Code Enforcement|Painting Violation
+
+D1: Pothole
+
+Definition
+
+Description whose central theme is around loss of integrity of the streets system which has resulted in holes
+
+Examples 
+
+typos intended to mimic production data
+
+Easier to classify
+
+"I AM REPORTING I HIT POTHOLE ON OLD PERKINS ROAD YESTERDAY AT 2 PM I DRIVE A BMW MY CAR IS IN SHOP GETTING NEW TIRE AND LOOKING FOR DAMAGE I HAVE RUN FLAT TIRES HAVING TO REPLACE LEFT FRONT TIRE HOLE WAS ON LEFT SIDE IN LANE GOING OUT TO HIGHLAND EVIDENTLY IT HAD BEEN REPORTED PICS SHOWING THEM REPAIRING TODAY BUT THAT DID NOT HELP ME YESTERDAY IN TO KNOW HOW TO COMPLETE DOCS FOR REIMBURSEMENT I CAN PROVIDE PICS OF TIRE AND BILL FOR TIRE THIS IS COSTLY EXPENSE JANICE WEEMS 18238 WOODS AVE 225 9215798"
+
+More difficult to classify
+
+"On Kansas Avenue and 18th street where the railroad tracks there are huge holes on the tracks."
+
+Commonly Confused With
+
+*|Cave-In
+
+Sewer|Manhole Complaint
+
+D1: Question
+
+Definition
+
+Description whose central theme is around citizens requesting information about the streets asset
+
+Examples 
+
+typos intended to mimic production data
+
+Easier to classify
+
+"I just wanted to know if there is actually a schedule for when the street sweeper goes down my street, so I will know to move my car."
+
+More difficult to classify
+
+"No sidewalk on busy street with daycare. Who's responsibility, city or business? 9371 N Oak Trwy, KC, MO 64155."
+
+Commonly Confused With
+
+All other Question D1 label pairs depending on context and anchor words
+
+D1: Service Complaint
+
+Definition
+
+Description whose central theme is around work having been done on the streets asset that was either unsatisfactory, incomplete, or caused other damage to the either the streets asset or another asset
+
+Examples 
+
+typos intended to mimic production data
+
+Easier to classify
+
+"Citizen came into the office and complained that street sweepers missed his area. Requesting street sweepers for N Michigan between NE 50th St and NE 51st Ter."
+
+More difficult to classify
+
+"CUSTOMER STATES THAT THE ROAD IN FRONT OF ABOVE ADDRESS NEEDS TO BE REPAVED. CUSTOMER STATES THAT WHEN THE INSTALLED CULVERT THEY CUT THROUGH THE ROAD AND ONLY COVERED IT WITH ROCKS."
+
+Commonly Confused With
+
+All other Service Complaint D1 label pairs depending on context and anchor words
+
+D1: Service Request
+
+Definition
+
+Description whose central theme is around work a citizen is asking the city to perform that related to the streets asset
+
+Examples 
+
+typos intended to mimic production data
+
+Easier to classify
+
+"CALLER IS REQUESTING AN APRON INSTALLED FROM THE STREET TO DRIVEWAY"
+
+More difficult to classify
+
+"Citizen called to request a PIAC form. The citizen wants to widen the street at the intersection of N Stark Ave and NE Cookingham Dr."
+
+Commonly Confused With
+
+All other Service Request D1 label pairs depending on context and anchor words
+
+D1: Snow and Ice
+
+Definition
+
+Description whose central theme is around snow or ice conditions in the street system
+
+Notes
+
+Defer|Snow and Ice will be remapped to this label pair in the future
+
+Examples 
+
+typos intended to mimic production data
+
+Easier to classify
+
+"Citizen is requesting assistance with slick streets in the area. The Intercontinental Hotel has a major event taking place tonight at 6:00 pm. The hotel is requesting to have the entrance ways to the sidewalks from the street cleared for the event. The citizen are expecting about 600 runners this evening.816/303-2914"
+
+More difficult to classify
+
+"Mr. & Mrs. Hawkins receiving mixed messages about whether City actually is responsible for snow removal on their cul de sac. Their address doesn't seem to be on the list for snow removal so they must call each time snow removal is required. Chris, please clarify."
+
+Commonly Confused With
+
+Defer|Snow and Ice
+
+D1: Street Complaint
+
+Definition
+
+Description whose central theme is around reports of problems with the integrity or structure of the street system. While there is a specific Pothole label pair, anything that is referencing a large number of potholes that are weakening the overall integrity of the road fall into this label pair. Questions, when sarcastic and read as more of a complaint about the road system than a question, fall into this label pair as well
+
+Examples 
+
+typos intended to mimic production data
+
+Easier to classify
+
+"The southbound intersection at N Mulberry and NW Briarcliff Dr is in need of repair. NW Briarcliff Dr was recently repaired and the same repair is needed at the N Mulberry Dr intersection."
+
+More difficult to classify
+
+"At the bridge there is a huge drop from the bridge to regular pavement. It is too large of a drop"
+
+Commonly Confused With
+
+No known confusions at this time
+
+D1: Street Sweeping
+
+Definition
+
+Description whose central theme is around street sweeping. Can include anything from complaints to requests
+
+Examples 
+
+typos intended to mimic production data
+
+Easier to classify
+
+"Caller called to see if the street sweeper would come by his area from 72nd to 73rd Flora Ave on the East and West side of the street."
+
+More difficult to classify
+
+"Another scheduled day but no street sweeping on Viking Way. Is there a reason that the city skips so many days?"
+
+Commonly Confused With
+
+No known confusions at this time
+
+D1: Walkway Complaint
+
+Definition
+
+Description whose central theme is around issues with the curb and sidewalk system
+
+Examples 
+
+typos intended to mimic production data
+
+Easier to classify
+
+"The sidewalk is unsafe and needs repaired. The Tree has grown larger then the green space and is busting up the sidewalk and road."
+
+More difficult to classify
+
+"Citizen is reporting the new ADA sidewalk connectors at this intersection are causing a tripping hazard because they do not connect sidewalk to sidewalk. Citizen would like to have this looked at."
+
+Commonly Confused With
+
+No known confusions at this time
+
+D0: Traffic
+
+D1: Downed Streetlight
+
+Definition
+
+Description whose central theme is around streetlights that have fallen down. Object must be identifiable as a streetlight to fall into this category; explicit identifcation is perfered
+
+Examples 
+
+typos intended to mimic production data
+
+Easier to classify
+
+"Citizen reported a streetlight pole on the southwest side of the ramp from eastbound 150 Hwy to southbound Botts Road is down."
+
+More difficult to classify
+
+"KCPD REPORTING POLE DOWN WITH LIVE WIRES BLOCKING"
+
+Commonly Confused With
+
+Defer|Downed Pole
+
+D1: Question
+
+Definition
+
+Description whose central theme is around citizens requesting information about traffic
+
+Examples 
+
+typos intended to mimic production data
+
+Easier to classify
+
+"Citizen would like to know when the signs will be removed, and states they have been moved several times, as well as caused people to drive on their lawn. The signs state: Road Closed, Local Traffic Only."
+
+More difficult to classify
+
+"The citizen is calling to see if he can have one the signs that reads Martin Luther King sign once it get replaces with the street name of Paseo. He doesn't care if he has to buy it, he just wants one. He wants someone to contact him in regards to this."
+
+Commonly Confused With
+
+All other Question D1 label pairs depending on context and anchor words
+
+D1: Service Complaint
+
+Definition
+
+Description whose central theme is around work related to traffic that was either unsatisfactory, incomplete, or caused other damage to the asset or another asset
+
+Examples 
+
+typos intended to mimic production data
+
+Easier to classify
+
+No examples as of yet
+
+More difficult to classify
+
+"Citizen states that they recently replaced the pedestrian crossing sign and left the old one on the sidewalk. Citizen wants to know if the city is going to retrieve that or if he needs to store it until public works can collect it."
+
+Commonly Confused With
+
+All other Service Complaint D1 label pairs depending on context and anchor words
+
+D1: Sign Complaint
+
+Definition
+
+Description whose central theme is around problems with some sort of signage 
+
+Examples 
+
+typos intended to mimic production data
+
+Easier to classify
+
+"Citizen reporting street signs missing the corner of 10th and Summit."
+
+More difficult to classify
+
+"The caller states that its a one way side pointed wrong direction."
+
+Commonly Confused With
+
+Traffic|Sign Request
+
+D1: Sign Request
+
+Definition
+
+Description whose central theme is around requests for some sort of signage
+
+Examples 
+
+typos intended to mimic production data
+
+Easier to classify
+
+"The citizen's said that parking on 45th and Madison in no-parking areas is a major problem for drivers. He'd like to see a sign on the north side of Madison near 45th Street saying "No Parking - Here to Corner" and a sign near the alley identifying it as a no parking zone."
+
+More difficult to classify
+
+"The main road to my street (Woodland Dr) is closed. The sign at Chowning and Woodland says Closed to through traffic so we are not getting mail, UPS, Fed Ex any deliveries. Can the sign be changed that says something so these delivery people know they can deliver?"
+
+Commonly Confused With
+
+Traffic|Sign Complaint
+
+Traffic|Traffic Study
+
+D1: Signal Complaint
+
+Definition
+
+Description whose central theme is around issues with traffic lights and other traffic signaling object such as walk lights
+
+Examples 
+
+typos intended to mimic production data
+
+Easier to classify
+
+"Northbound Cooper Point at Black Lake Blvd, there is no signal all the lights are dark. The caller is from the Police Department Dispatch."
+
+More difficult to classify
+
+"GENESEE AV & GOVERNOR DRPEDESTRIAN BUTTON HAS BEEN BEEPING CONTINOUSLY FOR 4-5 HOURS"
+
+Commonly Confused With
+
+Traffic|Streelight Complaint
+
+D1: Streetlight Complaint
+
+Definition
+
+Description whose central theme is around issues with streetlights. Does not include cases where the streetlight has fallen or requests for new streetlights
+
+Notes
+
+These will be remapped to Defer|Streetlight Complaint in the future
+
+Examples 
+
+typos intended to mimic production data
+
+Easier to classify
+
+"STREET LIGHT IN FRONT OF HOUSE AT 580 W. GARFIELD ST IS OUT AND HAS BEEN FOR QUITE SOME TIME. WHEN ENTERGY CAME OUT AND PUT UP NEW POLES, THE STREET LIGHT WAS NOT REPAIRED ONCE THEY WERE COMPLETED. IT IS VERY DARK AT NIGHT AND VERY DANGEROUS NOT BEING ABLE TO SEE WHEN APPROACHING MY YARD AT NIGHT AND EARLY MORNING WHEN I LEAVING AND RETURNING."
+
+More difficult to classify
+
+"next to mailbox in front of property by the road - light goes on and off all the time"
+
+Commonly Confused With
+
+Traffic|Signal Complaint
+
+D1: Streetlight Request
+
+Definition
+
+Description whose central theme is around the request for lighting in a new location
+
+Examples 
+
+typos intended to mimic production data
+
+Easier to classify
+
+"IT IS NEEDLESSLY DARK EASTBOUND ON FLORIDA STREET BEGINNING AT 22 ND STREET IN FRONT OF THE BUS STATION ALL THE WAY TO ACADIAN THRUWAY THIS IS A GREAT PLACE TO DELETE ALL THESE LIGHTS WHICH SADLY ARE NOT MANY AND DO IT ALL WITH LED LAMPS"
+
+More difficult to classify
+
+"Citizen is reporting that there is a light pole in the front part of the lot at 3901 Flora Ave. The owner would like the city to come out and remove the pole from her lot."
+
+Commonly Confused With
+
+No known confusions at this time
+
+D1: Traffic Study
+
+Definition
+
+Description whose central theme is around observations about the current environment and flow of traffic in a location. Typically these are cases that will require the city to come out and make an observation of the environment before taking action to resolve the issue. 
+
+Notes
+
+These can be particularly difficult because the classification of "something that the entity needs to come out and make an observation on before acting" is often based on outside knowledge that the reader may have
+
+Examples 
+
+typos intended to mimic production data
+
+Easier to classify
+
+"CONSTANT EXCESSIVE SPEEDING ON HYACINTH FROM STANFORD TO LEE. USED AS A MAJOR CUT THROUGH STREET AND NO MEANS TO DISCOURAGE SPEEDING, I.E. STOP SIGN, SPEED HUMP, ETC..."
+
+More difficult to classify
+
+"Need to add a 4' paint buffer along bike lane. Ample room. Increased safety against high vehicle speeds."
+
+Commonly Confused With
+
+Traffic|Sign Request
+
+Streets|Painting
+
+D0: Water
+
+D1: Fire Hydrant Issue
+
+Definition
+
+Description whose central theme is around water leaking from a fire hydrant
+
+Examples 
+
+typos intended to mimic production data
+
+Easier to classify
+
+"Citizen stated there is a stream of water coming out of the hydrant in front of this property. Citizen stated that the water is clear and odorless."
+
+More difficult to classify
+
+"Leaking fire highdrant"
+
+Commonly Confused With
+
+Water|Water Leaking
+
+D1: Flooding
+
+Definition
+
+Description whose central theme is around cases of large amounts of water gathering in a location that can be directly traced back to the water asset at that location
+
+Notes
+
+In the future, an additional model will be built to localize these flooding instances further
+
+Examples 
+
+typos intended to mimic production data
+
+Easier to classify
+
+No examplers as of yet
+
+More difficult to classify
+
+"WATER IN MIDDLE OF STREET FOR A FEW DAYS."
+
+Commonly Confused With
+
+Stormwater|Flooding
+
+Defer|Flooding
+
+*|Erosion
+
+Water|Water Leaking
+
+D1: Frozen Pipes
+
+Definition
+
+Description whose central theme is around issues with frozen pipes
+
+Examples 
+
+typos intended to mimic production data
+
+Easier to classify
+
+"The caller stated that her water lines had froze. She would like to know if there is a charge to technician coming out to assist.... "
+
+More difficult to classify
+
+"He has a frozen meter"
+
+Commonly Confused With
+
+Water|Service Interruption
+
+D1: High Pressure
+
+Definition
+
+Description whose central theme is around the pressure in the water system being above typical levels
+
+Examples 
+
+typos intended to mimic production data
+
+Easier to classify
+
+"Caller says their pipes are hammering because of the high pressure water"
+
+More difficult to classify
+
+"The caller stated her water pressure is at 90 and should be at 80. If her call could be returned to assist."
+
+Commonly Confused With
+
+Water|Low Pressure
+
+D1: High Usage
+
+Definition
+
+This is the definition
+
+Examples 
+
+typos intended to mimic production data
+
+Easier to classify
+
+"Citizen is requesting for a water servicer to check the meter at this property for a possible leak. Citizen states that she has a high water bill usage."
+
+More difficult to classify
+
+"I WAS INSTRUCTED BY BATON ROUGE WATER COMPANY TO HAVE YOU ALL COME OUT AND TEST MY WATER METER AT 3705 CANYONLAND DRIVE, BATON ROUGE, LA 70814. MY WATER USAGE IS 6XS THE AMOUNT THAT IS USUALLY USED MONTHLY AND THE HOUSE HAS BEEN EMPTY SINCE AUGUST 13,2016 BECAUSE OF THE FLOOD."
+
+Commonly Confused With
+
+Defer|Billing
+
+Water|Water Leaking
+
+D1: Low Pressure
+
+Definition
+
+Description whose central theme is around the pressure in the water system being below typical levels
+
+Examples 
+
+typos intended to mimic production data
+
+Easier to classify
+
+"Citizen is reporting low water pressure in the entire home. Someone will be home."
+
+More difficult to classify
+
+"The caller stated that there is a water sortage at his property and he wants to give a heads up and he would like to know when the water pressure will be up.."
+
+Commonly Confused With
+
+Water|High Pressure
+
+Water|Service Interruption
+
+D1: Meter Issue
+
+Definition
+
+Description whose central theme is around water asset issues occurring at the water meter
+
+Examples 
+
+typos intended to mimic production data
+
+Easier to classify
+
+"Citizen is reporting a water meter leak in the yard and water is running down the street."
+
+More difficult to classify
+
+"Citizen stated there is a possible leak at the meter at this property. Citizen states that her bill is 4 times higher than usual. Citizen would like the meter checked"
+
+Commonly Confused With
+
+Water|Water Leaking
+
+D1: Question
+
+Definition
+
+Description whose central theme is around citizens requesting information about the water asset
+
+Examples 
+
+typos intended to mimic production data
+
+Easier to classify
+
+"The caller would like more information about why the water is turned off in his area."
+
+More difficult to classify
+
+"He needs to know if there is still a boil water advisory for this building"
+
+Commonly Confused With
+
+All other Question D1 label pairs depending on context and anchor words
+
+D1: Service Complaint
+
+Definition
+
+Description whose central theme is around work having been done on the water asset that was either unsatisfactory, incomplete, or caused other damage to the either the water asset or another asset
+
+Examples 
+
+typos intended to mimic production data
+
+Easier to classify
+
+"The caller states that our WSD came out to fix water line break there was a big crevice or uneven ground in the front of the home. The citizen states that they also fix a new cap cover. The caller states it was not initially done properly and it needs to get fixed soon."
+
+More difficult to classify
+
+"Citizen is calling to say new water meter pits that were installed recently is situated in a way so that the dirt/mud runs off into the pit and is burying the pit and making it hard to locate it visually unless someone knows exactly where it is. States they recently installed the meters 2 weeks ago and will soon be putting down new sod/grass over the pit."
+
+Commonly Confused With
+
+All other Service Complaint D1 label pairs depending on context and anchor words
+
+D1: Service Disconnected
+
+Definition
+
+Description whose central theme is around a lack of water service for reasons related to bill payment or lack there of
+
+Notes
+
+Requests for water turn on service that cannot be attributed to a previous request to turn the water off or to a new residence turn on should be placed in this label pair
+
+Examples 
+
+typos intended to mimic production data
+
+Easier to classify
+
+"The caller said he has paid his water bill, caller said no one came to turn on the water, caller said he has an infant that needs water to make formula"
+
+More difficult to classify
+
+"The caller does not have any water and is unsure why. The water meter is locked and is blank. It has been 2 days."
+
+Commonly Confused With
+
+Water|Service Interruption
+
+Water|Billing
+
+D1: Service Interruption
+
+Definition
+
+Description whose central theme is around a lack of the water service for any reason other than lack of bill payment
+
+Examples 
+
+typos intended to mimic production data
+
+Easier to classify
+
+"The caller said the whole building has no water. Please call back to advise as soon as possible.."
+
+More difficult to classify
+
+"The caller stated that the main water line broke and she is unable to turn on her water due to no water pressure."
+
+Commonly Confused With
+
+Water|Service Disconnected
+
+D1: Service Request
+
+Definition
+
+Description whose central theme is around work a citizen is asking the city to perform that related to the water asset
+
+Examples 
+
+typos intended to mimic production data
+
+Easier to classify
+
+"The caller is calling to have fire hydrant installed."
+
+More difficult to classify
+
+"The caller would like to be scheduled to be add to water hook up calendar."
+
+Commonly Confused With
+
+All other Service Request D1 label pairs depending on context and anchor words
+
+D1: Shutoff Request
+
+Definition
+
+Description whose central theme is around a citizen requesting temporary or permanent discontinuation of the water asset
+
+Examples 
+
+typos intended to mimic production data
+
+Easier to classify
+
+"Needs water turned off at 1005 S Plum St"
+
+More difficult to classify
+
+"The citizen is needing the water shut off to perform repairs inside the house. A technician has been out today to shut the water for repairs, but there is still water flowing to the property. The citizen states this is the fourth time for the request and the water continues to flow. The citizen has a plumber coming tomorrow morning and wants the water shut off in the AM, or as soon as possible."
+
+Commonly Confused With
+
+Water|Water Leaking
+
+Water|Service Disconnected
+
+D1: Turn On Request
+
+Definition
+
+Description whose central theme is around a request to reinstate the water asset service after a period when it has been off by request
+
+Notes
+
+It must be clear in the description that the caller previously requested the water service to be turned off or that the request if a new residence turn on request. If these criteria are not met, the description should be labeled as Water|Service Disconnected
+
+Examples 
+
+typos intended to mimic production data
+
+Easier to classify
+
+"Contractor is calling to request the water be turned back on at 5906 Grand Ave. as the repairs have been completed."
+
+More difficult to classify
+
+"The caller called to close her water today and she now she is requesting to open it up."
+
+Commonly Confused With
+
+Water|Service Disconnected
+
+Water|Water Leaking
+
+D1: Water Asset Issue
+
+Definition
+
+Description whose central theme is around usability (with the exception of an outage), damage or displacement of a water asset other than a water meter
+
+Examples 
+
+typos intended to mimic production data
+
+Easier to classify
+
+"Caller stated that the water valve seems to be broken."
+
+More difficult to classify
+
+"The water vault was ran over by Line Maintenance pipeline truck upheaveled the vault, citizen is requesting it to be repaired."
+
+Commonly Confused With
+
+Water|Water Leaking
+
+D1: Water Leaking
+
+Definition
+
+Description whose central theme is around leaking of the water asset, typically inside the home or business
+
+Examples 
+
+typos intended to mimic production data
+
+Easier to classify
+
+"The caller states water is coming from the street in her home, and is not certain if something has ruptured underground or not."
+
+More difficult to classify
+
+"Citizen is calling to report that there was some water construction done couple of weeks ago. Citizen states now there is water coming from the repair work that was done, and running in front of citizens property down the street."
+
+Commonly Confused With
+
+Water|Meter Issue
+
+Sewer|Sewer Blockage
+
+D1: Water Quality
+
+Definition
+
+Description whose central theme is around the quality of water including reports of odor, color, taste and sediment content
+
+Examples 
+
+typos intended to mimic production data
+
+Easier to classify
+
+"Citizen is reporting while she was brushing her teeth the water turned very brown. It took about 10-15 seconds before clearing up. She stated that when she makes cool-aid the water has a funny taste as well. She would like her water to be tested."
+
+More difficult to classify
+
+"The caller stated that he is calling because the water is burning his and his wifes eyes. He believes that there is to much stuff in the water, and he is also having to clean all 3 of his toilets every 2 days because there is black ring forming in the toilet."
+
+Commonly Confused With
+
+No known confusions at this time
+
+D1: Water Waste
+
+Definition
+
+Description whose central theme is around violation of water shortage regulations
+
+Examples 
+
+typos intended to mimic production data
+
+Easier to classify
+
+"CUST CALLED TO REPORT THIS BUSINESS IS WATERING BUSHES OUTSIDE THE RESTRICTED HOURS. SHE SAID THE BUSINESS USED TO BE CALLED RAILROAD VIDEO BUT NOW ITSCALLED FRISKY BUSINESS."
+
+More difficult to classify
+
+""CALLER STATES THAT IT IS A NEW HOUSING DEVELOPMENT & THEY WERE WATERING THE LAWN. HUGE RETAINING WALL. THEY DIDNT KNOW THE NAME OF THE DEVELOPMENT.
+
+Commonly Confused With
+
+No known confusions at this time
