@@ -1,9 +1,11 @@
 import re
 import pandas as pd
 import streamlit as st
-from streamlit_helpers import *
+#from streamlit_helpers import *
+import streamlit_helpers as sthf
 
 
+print("---Running---")
 my_file = open("D0D1_definitions.text", 'r')
 text = my_file.read()
 
@@ -25,23 +27,36 @@ for chunk in d0_chunk_list[1:]:
         confusions = mini_parts[2][len("Commonly Confused With: "):]
         pair_list.append([d0, d1, pair_def, confusions])
 
-print(len(pair_list))
+
 
 df = pd.DataFrame(data=pair_list, columns=["D0", "D1", "Defn", "Confusion"])
 
-shape_and_memory(df)
 
-#df["Keywords"] = regex_vectorized("All other (.*) D1 label pairs depending on (.*)", df['Confusion'], ret="findall")
-filtered_df = filter_form(df)
+with st.beta_expander("Filter Form"):
+    filtered_df = sthf.filter_form2(df)
 
 st.write(filtered_df)
-shape_and_memory(filtered_df)
 
+st.markdown("-"*10)
+st.write("Before Filtering")
+sthf.shape_and_memory(df)
+st.write("After Filtering")
+sthf.shape_and_memory(filtered_df)
+st.markdown("-"*10)
+
+if len(filtered_df) == 0:
+    st.stop()
+
+st.write("Value Counts")
 l_col, r_col = st.beta_columns(2)
-l_col.write(filtered_df[["D0", "D1"]].groupby("D0").count())
-r_col.write(filtered_df[["D0", "D1"]].groupby("D1").count())
+l_col.write(filtered_df["D0"].value_counts())
+r_col.write(filtered_df["D1"].value_counts())
+#st.write(filtered_df["Defn"].value_counts())
+st.write(filtered_df["Confusion"].value_counts())
 
-st.write(filtered_df[["D0", "Confusion"]].groupby("Confusion").count())
+st.markdown("-"*10)
 
-idx = st.slider("Starting line", value=0, min_value=0, max_value=len(filtered_df), step=5)
-st.table(filtered_df.iloc[idx:idx+20])
+st.write("Full Text Display")
+sthf.display_page(filtered_df, 10)
+
+print("Session state after run:", st.session_state)
